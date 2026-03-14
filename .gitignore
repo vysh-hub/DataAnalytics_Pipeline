@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+analysis.db
+
+# datasets
+datasets/
+
+# React
+node_modules/
+build/
+
+# environment
+.env
